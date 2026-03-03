@@ -19,6 +19,4 @@ The model is deployed using Streamlit for easy interaction.
 - Python Libraries (e.g., Pandas, NumPy, Scikit-learn)
 - Random Forest Regressor
 
-## How to Run the Project
-1. Open the `App.py` file.
-2. Run the following command in the terminal:
+
